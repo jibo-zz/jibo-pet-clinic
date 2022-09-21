@@ -1,6 +1,6 @@
 package guru.springframework.jibopetclinic.model;
 
-public class Person {
+public class Person extends BaseEntity {
 
     private String firstName;
     private String lastName;

@@ -14,7 +14,7 @@
     </parent>
     <groupId>guru.springframework</groupId>
     <artifactId>jibo-pet-clinic</artifactId>
-    <version>0.0.4-SNAPSHOT</version>
+    <version>0.0.4</version>
     <name>jibo-pet-clinic</name>
     <description>jibo-pet-clinic</description>
     <properties>
@@ -48,7 +48,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/jibo-zz/jibo-pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>jibo-pet-clinic-0.0.4</tag>
   </scm>
 
 </project>
